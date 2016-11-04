@@ -32,6 +32,7 @@ gulp.task('deploy', function() {
       port: '30303',
       destination: '/var/www/ellisonhomestead.com/public/',
       incremental: true,
+      update: true,
       progress: true,
       emptyDirectories: true,
       compress: true
