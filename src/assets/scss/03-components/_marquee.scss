@@ -3,7 +3,6 @@
   background-color: $light-beige;
   &#home {
     background-image: url('/assets/img/homestead-1600x1000.jpg');
-    background-size: cover;
   }
   .marquee__content {
     @include grid-col-row;
