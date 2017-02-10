@@ -1,7 +1,7 @@
 {
-  "name": "foundation-zurb-template",
+  "name": "ellisonhomestead.com",
   "version": "1.0.0",
-  "description": "Official ZURB Template for Foundation for Sites.",
+  "description": "We're on a mission to live a more simple and sustainable life whilst serving some of the world's deepest needs.",
   "main": "gulpfile.js",
   "scripts": {
     "start": "gulp",
